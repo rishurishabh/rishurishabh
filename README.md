@@ -7,7 +7,7 @@ Software Developer
 I love code!!!
 
 * 🌍  I'm based in Noida, India
-* ✉️  You can contact me at [rishabhkumar203050@gmail.com](mailto:rishabhkumar203050@gmail.com)
+* ✉️  You can contact me at [rishabhkumar121640@gmail.com](mailto:rishabhkumar121640@gmail.com)
 * 🧠  I'm learning Nodejs, Express
 
 ### Skills
